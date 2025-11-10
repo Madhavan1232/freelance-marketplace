@@ -1,0 +1,102 @@
+.freelancer-profile-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f5f7fa;
+    padding: 20px;
+}
+
+.freelancer-profile-box {
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    width: 100%;
+    max-width: 800px;
+}
+
+.logo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.logo h1 {
+    color: #14a800;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.profile-title {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #363636;
+    margin-bottom: 30px;
+}
+
+.freelancer-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-row {
+    display: flex;
+    gap: 20px;
+}
+
+.form-row .input-field {
+    flex: 1;
+}
+
+.input-field {
+    width: 100%;
+}
+
+.input-with-icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.input-icon {
+    position: absolute;
+    left: 15px;
+    color: #14a800;
+}
+
+.form-input {
+    width: 100%;
+    padding: 15px 15px 15px 45px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 1rem;
+    transition: border-color 0.3s;
+}
+
+.form-input:focus {
+    border-color: #000000;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25);
+}
+
+.textarea-input {
+    resize: vertical;
+    min-height: 80px;
+}
+
+.submit-button {
+    background-color: #14a800;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 15px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+}
+
+.submit-button:hover {
+    background-color: #3c8224;
+}
