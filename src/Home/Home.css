@@ -1,7 +1,6 @@
 .navbar-container {
   color: white;
   min-height: 100vh;
-  /* background-image: linear-gradient(to right, #4a4a4a 0%, rgb(33, 33, 33) 100%); */
   overflow-x: hidden;
   position: relative;
 }
