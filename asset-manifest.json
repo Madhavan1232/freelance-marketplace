@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/freelance-marketplace/static/css/main.6fe4d40c.css",
+    "main.js": "/freelance-marketplace/static/js/main.f043aa28.js",
+    "static/js/453.9d7d304f.chunk.js": "/freelance-marketplace/static/js/453.9d7d304f.chunk.js",
+    "index.html": "/freelance-marketplace/index.html",
+    "main.6fe4d40c.css.map": "/freelance-marketplace/static/css/main.6fe4d40c.css.map",
+    "main.f043aa28.js.map": "/freelance-marketplace/static/js/main.f043aa28.js.map",
+    "453.9d7d304f.chunk.js.map": "/freelance-marketplace/static/js/453.9d7d304f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fe4d40c.css",
+    "static/js/main.f043aa28.js"
+  ]
+}
