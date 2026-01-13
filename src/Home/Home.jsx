@@ -3,6 +3,7 @@ import Navbar from "../NavBar/Navbar";
 import "../Home/Home.css"
 import ListOfProps from "../PropsOfFM/ListOfProps";
 import SearchBar from "../SearchBar/Bar.jsx";
+import myimage from "./4.jpg";
 function Home() {
     return (
         <div className="parent">
@@ -14,7 +15,7 @@ function Home() {
                 </div>
                 <div className="home-container">
                     <div className="image-wrapper">
-                        <img src="/image1.png" alt="Description of image" />
+                        <img src={myimage} alt="Description of image" />
                         <div className="overlay-text">
                             <p>Where Skills Meet</p>
                             <p>Opportunities, Shaping the</p>

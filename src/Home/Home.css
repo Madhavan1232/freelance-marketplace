@@ -37,11 +37,12 @@
 
 .image-wrapper img {
   width: 83%;
-  height: auto;
+  height: 640px;
   border-radius: 24px;
   display: block;
   margin: 50px;
   object-fit: cover;
+
 }
 
 .overlay-text {
