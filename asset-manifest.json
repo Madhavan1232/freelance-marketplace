@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/freelance-marketplace/static/css/main.6fe4d40c.css",
-    "main.js": "/freelance-marketplace/static/js/main.7f3e418b.js",
+    "main.css": "/freelance-marketplace/static/css/main.643cc06f.css",
+    "main.js": "/freelance-marketplace/static/js/main.9ba77408.js",
     "static/js/453.9d7d304f.chunk.js": "/freelance-marketplace/static/js/453.9d7d304f.chunk.js",
+    "static/media/4.jpg": "/freelance-marketplace/static/media/4.9d1aaca2a3f9f16073f7.jpg",
     "index.html": "/freelance-marketplace/index.html",
-    "main.6fe4d40c.css.map": "/freelance-marketplace/static/css/main.6fe4d40c.css.map",
-    "main.7f3e418b.js.map": "/freelance-marketplace/static/js/main.7f3e418b.js.map",
+    "main.643cc06f.css.map": "/freelance-marketplace/static/css/main.643cc06f.css.map",
+    "main.9ba77408.js.map": "/freelance-marketplace/static/js/main.9ba77408.js.map",
     "453.9d7d304f.chunk.js.map": "/freelance-marketplace/static/js/453.9d7d304f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fe4d40c.css",
-    "static/js/main.7f3e418b.js"
+    "static/css/main.643cc06f.css",
+    "static/js/main.9ba77408.js"
   ]
 }
